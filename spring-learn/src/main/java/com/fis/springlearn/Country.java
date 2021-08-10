@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Country {
-	private static final Logger LOGGER = LoggerFactory.getLogger(SpringLearnApplication.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(Country.class);
 	
 	String code;
 	String name;
