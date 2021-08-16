@@ -1,4 +1,4 @@
-package com.fis.itemcatalog;
+package com.fis.employeeServices;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
